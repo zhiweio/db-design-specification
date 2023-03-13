@@ -4,8 +4,8 @@
 
 ## 修订记录
 
-| 版本号   | 发布人 | 更新日期       | 备注  |
-| ----- | --- | ---------- | --- |
+| 版本号   | 发布人     | 更新日期       | 备注  |
+| ----- | ------- | ---------- | --- |
 | 0.0.1 | zhiweio | 2021-08-06 | 初稿  |
 | 0.0.2 | zhiweio | 2022-11-04 | 修订  |
 
@@ -440,6 +440,6 @@ SELECT email,uid FROM user_email WHERE uid=xx
 
 ## 引用
 
-* [MySQL 数据库设计规范]([notes/MySQL数据库设计规范.md at master · guanguans/notes (github.com)](https://github.com/guanguans/notes/blob/master/MySQL/MySQL数据库设计规范.md))
-* [知学云产品开发者文档中心 - 数据库规范]([数据库规范 - 知学云产品开发者文档中心 (zhixueyun.com)](http://developer.zhixueyun.com/standard/database/#_3))
-* [国家食品药品监管信息化标准 数据库设计规范]([uL28jQgyv2+3biyei8xrnmt7ajqNX3xPS4rz7uOWjqS5wZGY=.pdf (nmpa.gov.cn)](https://www.nmpa.gov.cn/directory/web/nmpa/images/uL28jQgyv2+3biyei8xrnmt7ajqNX3xPS4rz7uOWjqS5wZGY=.pdf))
+* [MySQL 数据库设计规范](https://github.com/guanguans/notes/blob/master/MySQL/MySQL数据库设计规范.md)
+* [数据库规范 - 知学云产品开发者文档中心](http://developer.zhixueyun.com/standard/database/#_3)
+* [国家食品药品监管信息化标准 数据库设计规范](https://www.nmpa.gov.cn/directory/web/nmpa/images/uL28jQgyv2+3biyei8xrnmt7ajqNX3xPS4rz7uOWjqS5wZGY=.pdf)
